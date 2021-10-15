@@ -14,7 +14,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
    - File: `nv_2020.zip`
 - File: VEST documentation file, 2020
    - Date accessed: 10/11/21
-   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=5194701&version=47.0
+   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=5206372&version=21.0
    - File: `documentation.txt`
 - File: Election Results, SOS 2020
    - Date accessed: 10/11/21
