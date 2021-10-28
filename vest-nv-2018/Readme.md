@@ -1,4 +1,4 @@
-# vest-nv-2020
+# vest-nv-2018
 
 Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2018-nevada-precinct-and-election-results/).
 
