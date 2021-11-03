@@ -18,11 +18,11 @@ View the final report [here](https://redistrictingdatahub.org/dataset/vest-2020-
 RDH's partner data validation for VEST's 2018 NV file. 
 VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/UBKYRU/DLH5DZ&version=47.0).
 
-View the final report [here](https://redistrictingdatahub.org/dataset/vest-2018-nevada-precinct-boundaries-and-election-results-shapefile/).
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2018-nevada-precinct-and-election-results/).
 
 ## vest-nv-2016
 
 RDH's partner data validation for VEST's 2016 NV file. 
 VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/I2A9FG&version=71.0).
 
-View the final report [here](https://redistrictingdatahub.org/dataset/vest-2016-nevada-precinct-boundaries-and-election-results-shapefile/).
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2016-nevada-precinct-and-election-results/).
